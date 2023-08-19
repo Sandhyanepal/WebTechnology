@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container-fluid{
+    background-image: url(./images/bg.jpg);
+    height: 100vh;
+    background-size: cover;
+    /* background-position: center; */
+}
+
+.header{
+    padding-top: 10rem;
+    color: rgb(0, 0, 0);
+}
+.info
+{
+    text-align: center;
+    font-weight: 500;
+    line-height: .5;
+    padding-bottom: 6px;
+}
+
+img {
+    width: 120px;
+    border: solid 1px antiquewhite;
+    border-radius: 60px;
+    text-align: center;
+}
+/* #result{
+    margin-left: 30em;
+    width: 30%;
+    box-shadow: 0 2px 20px 2px gray;
+        
+} */
